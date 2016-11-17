@@ -1,0 +1,6 @@
+beautifulsoup4
+Cython
+flask
+gensim
+nltk 
+pandas
